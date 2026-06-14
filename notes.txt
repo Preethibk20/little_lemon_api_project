@@ -1,0 +1,23 @@
+LITTLE LEMON API PROJECT CREDENTIALS
+
+Here are the pre-configured users and their passwords created in the SQLite database (db.sqlite3).
+
+1. Superuser / Admin
+   - Username: admin
+   - Password: adminpassword123
+
+2. Manager
+   - Username: manageruser
+   - Password: managerpassword123
+
+3. Delivery Crew
+   - Username: crewuser
+   - Password: crewpassword123
+
+4. Customer
+   - Username: customeruser
+   - Password: customerpassword123
+
+Groups:
+- Manager (contains: manageruser)
+- Delivery crew (contains: crewuser)
